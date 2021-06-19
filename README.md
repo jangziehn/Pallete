@@ -6,7 +6,7 @@
 Note: This application is based on the Pixel 3XL, API30 version.
 ### <With Pallete,measure your personal color>
 - Measure your personal color with just A4 paper and a smartphone for FREE.
-- [Watch Video for our Project](https://youtu.be/E-fQqp6jfbw) 
+- [Watch Video for our Project](https://www.youtube.com/watch?v=aIS0EnDxnnE) 
 
 #### What is Personal Color?
 - Personal color is defined in four different tones using the names of the seasons. And it consists of warm orange skin as warm tone and pale pinkish skin as cool tone.
