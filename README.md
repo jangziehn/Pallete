@@ -36,5 +36,5 @@ Note: This application requires a smartphone with internet connection with a4 pa
 |<a href="https://github.com/Jaeyooou">Jaehyun Ahn</a>|📂 DB, Backend|
 
 
-https://youtu.be/E-fQqp6jfbw 
-<iframe width="640" height="360" src="https://youtu.be/E-fQqp6jfbw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[Watch Video](https://youtu.be/E-fQqp6jfbw) 
+
